@@ -23,7 +23,7 @@
 
 .resumeimage {
   margin-top: 12%;
-  box-shadow: 5px 10px 8px black;
+  box-shadow: 5px 8px 8px rgb(16, 15, 32);
   border-radius: 50%;
 }
 .resumeimage:hover {
@@ -31,7 +31,7 @@
 }
 .column2 {
   width: 70%;
-  background-color: white;
+  background-color: rgb(236, 234, 234);
   margin-right: 0%;
   padding-bottom: 2%;
 }
@@ -67,7 +67,7 @@
 .heading5 {
   margin-top: 10px;
   color: white;
-  font-size: 19px;
+  font-size: 17px;
 }
 .col2 {
   margin-top: 30px;
@@ -79,20 +79,27 @@
   text-transform: uppercase;
   margin-top: 30px;
   letter-spacing: 1px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   font-weight: bold;
   font-size: 26px;
 }
 .para {
   font-size: 15px;
-  color: #333;
+  font-weight: 500;
+  color: #4f5253;
+  font-family: "Dongle", sans-serif;
+
+  font-family: "Roboto", sans-serif;
+
+  font-family: "Rubik", sans-serif;
+  letter-spacing: 1px;
 }
 .desc2 {
   padding-left: 15px;
 }
-.desc2 li {
+/* .desc2 li {
   margin-bottom: 15px;
-}
+} */
 .heading7 {
   color: #03a9f4;
   font-weight: 500;
@@ -109,4 +116,65 @@
 }
 .desc2 ul {
   padding: 0px;
+}
+
+.desc3 ul {
+  padding-left: 15px;
+  list-style-type: square;
+}
+.desc3 li {
+  padding-left: 10px;
+}
+.desc3 h6 {
+  color: #3884a7;
+  font-weight: 600;
+  margin-bottom: 4px;
+  font-family: "Dongle", sans-serif;
+
+  font-family: "Roboto", sans-serif;
+
+  font-family: "Rubik", sans-serif;
+  letter-spacing: 1px;
+}
+.desc3 h5 {
+  color: #4f5253;
+  font-weight: 500;
+  font-size: 14px;
+  margin-bottom: 11px;
+  font-family: "Dongle", sans-serif;
+
+  font-family: "Roboto", sans-serif;
+
+  font-family: "Rubik", sans-serif;
+  letter-spacing: 1px;
+}
+.desc4 ul {
+  padding-left: 15px;
+  list-style-type: square;
+}
+.desc4 li {
+  padding-left: 10px;
+}
+.desc4 h6 {
+  color: #4f5253;
+  font-weight: 400;
+  margin-bottom: 8px;
+  font-family: "Dongle", sans-serif;
+
+  font-family: "Roboto", sans-serif;
+
+  font-family: "Rubik", sans-serif;
+  letter-spacing: 1px;
+}
+.heading9 {
+  color: #4f5253;
+  font-weight: 400;
+  margin-bottom: 8px;
+  margin-top: 20px;
+  font-family: "Dongle", sans-serif;
+
+  font-family: "Roboto", sans-serif;
+
+  font-family: "Rubik", sans-serif;
+  letter-spacing: 1px;
 }
