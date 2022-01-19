@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Abel&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Fjalla+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Orbitron&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Ropa+Sans&display=swap");
+
+.body {
+  background: #ddd;
+  margin: 0;
+}
+.content {
+  background-size: contain;
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.column1 {
+  width: 30%;
+  background-color: #28a7ea;
+  background: linear-gradient(#111e6c, #73c2fb, #111e6c);
+  margin-left: 5%;
+  padding-bottom: 2%;
+}
+
+.resumeimage {
+  margin-top: 12%;
+  box-shadow: 5px 10px 8px black;
+}
+.resumeimage:hover {
+  transform: scale(1.03);
+}
+.column2 {
+  width: 60%;
+  background-color: white;
+  margin-right: 5%;
+  padding-bottom: 2%;
+}
+
+.desc {
+  line-height: 95%;
+  margin-bottom: 30px;
+}
+.col1 {
+  margin-top: 30px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.heading3 {
+  margin-top: 30px;
+}
+.col2 {
+  margin-top: 30px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.heading2 {
+  margin-top: 30px;
+  font-family: "Dubai Medium", sans-serif;
+}
+.para {
+  font-size: 15px;
+  font-family: "Abel", sans-serif;
+  color: #aaa;
+}
