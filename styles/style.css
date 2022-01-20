@@ -23,11 +23,11 @@
 
 .resumeimage {
   margin-top: 12%;
-  box-shadow: 5px 8px 8px rgb(16, 15, 32);
+  /* box-shadow: 5px 8px 8px rgb(24, 22, 48); */
   border-radius: 50%;
 }
 .resumeimage:hover {
-  transform: scale(1.03);
+  transform: scale(1.1);
 }
 .column2 {
   width: 70%;
